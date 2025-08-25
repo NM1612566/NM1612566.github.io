@@ -7,3 +7,4 @@ title: Home
 - Project 2: Description
 ## About Me
 Click here to learn more → [About Me](about.md)
+[Coding notebook](https://github.com/NM1612566/notebook.md)
